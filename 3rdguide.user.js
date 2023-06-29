@@ -83,8 +83,8 @@
     "逐火十三英桀·科斯魔": "Kosma",
     "虚树神骸-神秘主义": "Mysticism Husk",
     "虚树神骸-存在主义": "Existentialism Husk",
-    "毕舍遮": "Aponia"
-    "塔之钳梏": "Wardens of Tower"  
+    // '毕舍遮': 'Aponia', // (use valkyrie TL)
+    "塔之钳梏": "Wardens of Tower", 
 
     // === Superstring abyss translations ===
     // Abyss ranks
@@ -109,6 +109,11 @@
     虚数: "Imaginary",
     坚阵: "Fortified",
     雷劫: "Paralyze",
+    血棘: "Bleed",
+    冰结: "Freeze",
+    白刃: "Melee",
+    协奏: "Symphony",
+    统御: "Dominance Enviroment",
 
     // Abyss stages
     "区域:": "Stage",
