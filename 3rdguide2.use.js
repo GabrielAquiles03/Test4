@@ -80,7 +80,7 @@
     "逐火十三英桀·科斯魔": "Kosma",
     "虚树神骸-神秘主义": "Mysticism Husk",
     "虚树神骸-存在主义": "Existentialism Husk",
-    // '毕舍遮': 'Aponia', // (use valkyrie TL)
+    "逐火十三英桀 阿波尼亚": "Aponia",
     "塔之钳梏": "Wardens of Tower",
 
     // === Superstring abyss translations ===
