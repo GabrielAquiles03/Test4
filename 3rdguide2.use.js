@@ -1,8 +1,14 @@
 // ==UserScript==
-// @name         3rdguide TL and utils
-// @namespace    https://github.com/GabrielAquiles03/Test4/edit/main
-// @description  Simple EN translation of valks and bosses
-// @version      1.0.8
+// @name         3rdGuideUpdate
+// @namespace    3rdGuideUpdate
+// @description  Translation
+// @version      1.0
+// @author       zklm(OP)
+// @match        http://3rdguide.com/web/teamnew/index
+// @match        http://www.3rdguide.com/web/teamnew/index
+// @match        https://3rdguide.com/web/teamnew/index
+// @match        https://www.3rdguide.com/web/teamnew/index
+// @grant        none
 // ==/UserScript==
 
 (function () {
