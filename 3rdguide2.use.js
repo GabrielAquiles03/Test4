@@ -184,7 +184,7 @@
     "女武神·游侠": "Valkyrie Ranger",
     "白骑士·月光": "Knight Moonbeam",
     "领域装·白练": "White Comet",
-    "终焉之律者": "Herrscher of Finality",
+    终焉之律者: "Herrscher of Finality",
 
     布洛妮娅: "Bronya",
     迷城骇兔: "Haxxor Bunny",
