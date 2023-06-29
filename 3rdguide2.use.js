@@ -1,15 +1,16 @@
 // ==UserScript==
-// @name         3rdGuideUpdate
-// @namespace    3rdGuideUpdate
-// @description  Translation
+// @name         3rd Guide TL
+// @namespace    GabrielAquiles.3rdGuide
 // @version      1.0
-// @author       zklm(OP)
+// @description  Translates 3rdguide.com
+// @author       GabrielAquiles
 // @match        http://3rdguide.com/web/teamnew/index
 // @match        http://www.3rdguide.com/web/teamnew/index
 // @match        https://3rdguide.com/web/teamnew/index
 // @match        https://www.3rdguide.com/web/teamnew/index
 // @grant        none
 // ==/UserScript==
+
 
 (function () {
   "use strict";
