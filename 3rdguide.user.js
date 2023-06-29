@@ -81,6 +81,10 @@
     "支配之律者-乌合之众": "Herrscher of Dominance",
     "伪神·奥托": "False God Otto",
     "逐火十三英桀·科斯魔": "Kosma",
+    "虚树神骸-神秘主义": "Mysticism Husk",
+    "虚树神骸-存在主义": "Existentialism Husk",
+    "毕舍遮": "Aponia"
+    "塔之钳梏": "Wardens of Tower"  
 
     // === Superstring abyss translations ===
     // Abyss ranks
