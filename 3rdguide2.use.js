@@ -81,7 +81,7 @@
     "虚树神骸-神秘主义": "Mysticism Husk",
     "虚树神骸-存在主义": "Existentialism Husk",
     // '毕舍遮': 'Aponia', // (use valkyrie TL)
-    "塔之钳梏": "Wardens of Tower", 
+    "塔之钳梏": "Wardens of Tower",
 
     // === Superstring abyss translations ===
     // Abyss ranks
@@ -129,7 +129,7 @@
     "黑之赐死、白之悬剑": "Black Wine of Theramenes, White Sword of Damocles",
     "蔽光之影": "Opaque Shadow",
     "奥托·阿波卡利斯": "Otto Apocalypse",
-    "逐火十三英桀·千劫": "Kalpas"
+    "逐火十三英桀·千劫": "Kalpas",
     "贝纳勒斯·冰形态": "Benares-Ice",
     "玉骑士·月痕": "Jade Knight:Moon Scar",
     "伪神奥托": "False God Otto",
@@ -138,7 +138,7 @@
     "逐火十三英桀·维尔薇": "Vill-V",
     "毕舍遮": "Pishacha",
     "侵蚀之律者": "Herrscher of Corruption",
-    "「业魔」凯文": "Diabolic Kevin"
+    "「业魔」凯文": "Diabolic Kevin",
 
     // === Valkyries ===
     符华: "Fu Hua",
@@ -240,7 +240,7 @@
 
     爱莉希雅: "Elysia",
     "粉色妖精小姐♪": "Miss Pink Elf",
-    "真我·人之律者": "Herrscher of Human: Ego"
+    "真我·人之律者": "Herrscher of Human: Ego",
 
     "娜塔莎·希奥拉": "Raven",
     午夜苦艾: "Midnight Absinthe",
@@ -271,17 +271,17 @@
 
     爱衣·休伯利安Λ: "Ai Hyperion Λ",
     "时帆旅人": "Chrono Navi",
-    
+
     苏莎娜: "Susannah",
     "女武神·热砂": "Valkyrie Quicksand",
-    
+
     "米丝忒琳·沙尼亚特": "Misteln Schariac",
     "织羽梦旌": "Dreamweaver",
 
     普罗米修斯: "Prometheus",
     "终末协理0017": "Terminal Aide 0017",
 
-    时雨绮罗: "Shigure Kira"
+    时雨绮罗: "Shigure Kira",
     "糖露星霜": "Sugary Starburst",
   };
 
