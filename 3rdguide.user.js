@@ -129,6 +129,19 @@
     "娑婆 阿湿波": "Saha Assaka",
     群怪: "Mobs",
     "逐火十三英桀 爱莉希雅": "Flame Chaser Elysia",
+    "黑之赐死、白之悬剑": "Black Wine of Theramenes, White Sword of Damocles",
+    "蔽光之影": "Opaque Shadow",
+    "奥托·阿波卡利斯": "Otto Apocalypse",
+    "逐火十三英桀·千劫": "Kalpas"
+    "贝纳勒斯·冰形态": "Benares-Ice",
+    "玉骑士·月痕": "Jade Knight:Moon Scar",
+    "伪神奥托": "False God Otto",
+    "生物、异能": "Rotary wings & mobs",
+    "煌夜骑士": "Nocturnal Knight",
+    "逐火十三英桀·维尔薇": "Vill-V",
+    "毕舍遮": "Pishacha",
+    "侵蚀之律者": "Herrscher of Corruption",
+    "「业魔」凯文": "Diabolic Kevin"
 
     // === Valkyries ===
     符华: "Fu Hua",
