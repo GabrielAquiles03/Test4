@@ -175,6 +175,7 @@
     "女武神·游侠": "Valkyrie Ranger",
     "白骑士·月光": "Knight Moonbeam",
     "领域装·白练": "White Comet",
+    "终焉之律者": "Herrscher of Finality",
 
     布洛妮娅: "Bronya",
     迷城骇兔: "Haxxor Bunny",
@@ -187,6 +188,7 @@
     "驱动装·山吹": "Yamabuki Armor",
     雪地狙击: "Snowy Sniper",
     次生银翼: "Silverwing: N-EX",
+    真理之律者: "Herrscher of Truth",
 
     阿琳姐妹: "Twins",
     狂热蓝调Δ: "Fervent Tempo Delta",
@@ -201,6 +203,7 @@
     "脉冲装·绯红": "Crimson Impulse",
     "女武神·强袭": "Valkyrie Bladestrike",
     影舞冲击: "Shadow Dash",
+    始源之律者: "Herrscher of Origin",
 
     丽塔: "Rita",
     失落迷迭: "Fallen Rosemary",
@@ -227,11 +230,12 @@
 
     爱莉希雅: "Elysia",
     "粉色妖精小姐♪": "Miss Pink Elf",
+    "真我·人之律者": "Herrscher of Human: Ego"
 
     "娜塔莎·希奥拉": "Raven",
     午夜苦艾: "Midnight Absinthe",
 
-    梅比乌斯: "Mobisus",
+    梅比乌斯: "Mobius",
     "无限·噬界之蛇": "Infinite Ouroboros",
 
     "卡萝尔·佩珀": "Carole Pepper",
@@ -250,6 +254,25 @@
     "繁星·绘世之卷": "Starry Impression",
 
     维尔薇: "Vill-V",
+    "螺旋·愚戏之匣": "Helical Contraption",
+
+    李素裳: "Li Sushang",
+    "玉骑士·月痕": "Jade Knight",
+
+    爱衣·休伯利安Λ: "Ai Hyperion Λ",
+    "时帆旅人": "Chrono Navi",
+    
+    苏莎娜: "Susannah",
+    "女武神·热砂": "Valkyrie Quicksand",
+    
+    "米丝忒琳·沙尼亚特": "Misteln Schariac",
+    "织羽梦旌": "Dreamweaver",
+
+    普罗米修斯: "Prometheus",
+    "终末协理0017": "Terminal Aide 0017",
+
+    时雨绮罗: "Shigure Kira"
+    "糖露星霜": "Sugary Starburst",
   };
 
   const translateElement = function (tls, el) {
