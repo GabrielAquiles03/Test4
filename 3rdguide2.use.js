@@ -1,3 +1,8 @@
+// ==UserScript==
+// @name         3rdguide TL and utils
+// @namespace    https://github.com/GabrielAquiles03/Test4/edit/main
+// @description  Simple EN translation of valks and bosses
+// @version      1.0.8
 // ==/UserScript==
 
 (function () {
